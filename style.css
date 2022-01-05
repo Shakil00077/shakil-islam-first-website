@@ -36,3 +36,19 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.last-part{
+    display: flex;
+    
+}
+.full-stack{
+    width: 80%;
+    margin: 0 auto;
+    margin-left: 60px;
+    border: 1px solid;
+}
+.junior-web{
+    width: 80%;
+    margin: 0 auto;
+    margin-left: 60px;
+
+}
