@@ -38,17 +38,36 @@ h1{
 }
 .last-part{
     display: flex;
+    margin-bottom: 150px;
+    background-image: url(images/last-bg.png);
+    background-repeat: no-repeat;
     
 }
 .full-stack{
-    width: 80%;
-    margin: 0 auto;
-    margin-left: 60px;
-    border: 1px solid;
+    width: 50%;
+    margin-left: 75px;
+    margin-right: 75px;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, red, salmon);
+    border-image-slice: 1;
 }
 .junior-web{
-    width: 80%;
-    margin: 0 auto;
-    margin-left: 60px;
-
+    width: 50%;
+    margin-left: 75px;
+    margin-right: 75px;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+h3{
+    font-size: 35px;
+}
+footer{
+    text-align: center;
 }
